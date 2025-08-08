@@ -1,0 +1,28 @@
+{
+  "name": "integracion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elCesarP/precticaDespliegue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elCesarP/precticaDespliegue/issues"
+  },
+  "homepage": "https://github.com/elCesarP/precticaDespliegue#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4"
+  }
+}
